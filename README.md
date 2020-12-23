@@ -1,5 +1,6 @@
+## Welcome to DSC IoT Track 3 
 # learn-raspberry-pi-iot
-Learn how to build Internet of Things (IoT) Apps using Raspberry Pi and JavaScript!
+Learn how to build Internet of Things (IoT) Apps using Raspberry Pi !
 
 <img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" width="40%" style="display: block; margin: 0 auto;">
 
